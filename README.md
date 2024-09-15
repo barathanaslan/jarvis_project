@@ -3,7 +3,7 @@
 
 ## Project Progress
 
-`[█████—————————–] 7% Complete`
+`[█——————————————————–] 7% Complete`
 
 ## Project Overview
 
@@ -13,9 +13,9 @@ The **Jarvis Project** aims to create a personalized, constantly learning AI age
 
 - **Vector Database**: The vector database may contain personal information about Barathan, so it is advised to start with a clean database to ensure privacy and maintain data consistency.
 
-- **Development**: This project was developed using a combination of AI models and tools, including **ChatGPT**, **Gemini**, and **Claude**.
-
 - **Qdrant Setup**: Qdrant can be easily set up using Docker. If you have the `docker-compose.yml` file provided in this project, you can directly start the Qdrant service by running the following command:
    ```bash
    docker-compose up
    ```
+
+- **Development**: This project was developed using a combination of AI models and tools, including **ChatGPT**, **Gemini**, and **Claude**.
